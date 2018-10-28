@@ -18,13 +18,13 @@ For offline conversion use free conversion utility linked from Maven central rep
 ```
  <dependency>
      <groupId>eu.plib</groupId>
-     <artifactId>plib</artifactId>
-     <version>1.3</version>
+     <artifactId>plib_2.12</artifactId>
+     <version>2.6.4</version>
  </dependency>
 ```
 or Gradle version:
 ```
-compile 'eu.plib:plib:1.3'
+compile 'eu.plib:plib_2.12:2.6.4'
 ```
 For more info see AMM converter site at  http://www.ammconverter.eu
 
